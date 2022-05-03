@@ -21,8 +21,7 @@ Q1: Do the following actions require the OS to use kernel mode or user mode is s
 
 Q2: Explain the purpose of a system call. There are different sets of system calls: list them and give at least 2 examples of a system call for each category.
 --- SYSTEM CALL ---
-            A system call is a method of communication between a running program and the operating system. It enables the user to make advantage of the operating system's services. C, C++, and assembly language processes are used in these system calls. Each system call has its unique name in each operating system. Each system call is assigned a unique number to identify it.
-
+           A system call is a way for a running software to communicate with the operating system. It allows the user to take advantage of the services provided by the operating system. These system calls use C, C++, and assembly language processes. Each operating system has its own name for each system call. To identify each system call, it is given a unique number.
 
 
 System calls: 
